@@ -86,6 +86,7 @@ class User extends Authenticatable
         return false;
     }
 
+    // hgfj
 
     // djkfhlkasjdfas
     // fas
@@ -95,7 +96,6 @@ class User extends Authenticatable
     // dfas
     // df
     // asd
-    // f
     // asd
     // fa
     // sd
